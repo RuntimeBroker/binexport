@@ -1,5 +1,4 @@
 name: cmake-build
-
 on: [push, pull_request]
 
 env:
